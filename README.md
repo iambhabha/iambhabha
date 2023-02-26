@@ -17,9 +17,9 @@ Languages and Tools:
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NaserElziadna)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naser-hassan-b452411a1)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elziadna10@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iambhabha/iambhabha)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sharma-596a94237)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhabha242242@gmail.com)
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
@@ -29,16 +29,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- </p> -->
 
 &nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I Never Stopped Learning and I always motivate people near me;
-- 📫 How to reach me: elziadna10@gmail.com;
 
 **Languages and Tools:** 
 
@@ -70,27 +60,9 @@ You can use this api: https://github.com/NaserElziadna/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-<!--   <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a> -->
-  <a href="https://www.paypal.com/donate/?hosted_button_id=F9NGRLXBQABBC" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/NaserElziadna" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
----
 
 <!-- Its main projects -->
 <!-- <p align="center">
