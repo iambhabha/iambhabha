@@ -11,7 +11,13 @@ Languages and Tools:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sharma-596a94237)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhabha242242@gmail.com)
 
+<hr>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/bhabha2422z)
+
+<hr>
 **Languages and Tools:** 
 
   <!-- Your languages and tools. Be careful with the alignment. 
