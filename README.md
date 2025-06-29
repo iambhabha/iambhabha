@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kapil sharma
-- 👀 I’m flutter developer && node js && React Native
+- 👀 I’m flutter developer && node js
 - 🌱 I’m currently learning React js && Next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
